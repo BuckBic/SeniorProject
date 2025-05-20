@@ -55,9 +55,3 @@ This repository is **public**. Anyone can view the content. Sensitive informatio
 If you're a reviewer, instructor, or visitor:  
 All project content is located in the folders above. For questions or feedback, feel free to contact any team member directly.
 
----
-
-Let me know if you’d like to add:
-- A project description or summary  
-- A “tech stack” section (e.g. Raspberry Pi Pico, sensors, Python, CAD software)  
-- A license or contributor guidelines section
